@@ -36,7 +36,6 @@ frontend/
 │   └── index.css
 ├── package.json
 └── README.md
-
 ```
 
 ## How to Run
@@ -73,8 +72,8 @@ The application is hosted and available online. You can access it [here](https:/
 
 Include some screenshots to demonstrate the application's functionality:
 
-![Home Screen](./frontend/assets/screenshot-app-1.png)  
-![Search Result](./frontend/assets/screenshot-app-2.png)
+![Home Screen](./frontend/src/assets/screenshot-app-1.png)  
+![Search Result](./frontend/src/assets/screenshot-app-1.png)
 
 ## Documentation
 
