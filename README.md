@@ -21,10 +21,11 @@ The project is structured as follows:
 
 ```
 frontend/
+├── public/
+│   └── assets/
+│       ├── screenshot-app-1.png
+│       └── screenshot-app-2.png
 ├── src/
-│   ├── assets/
-│   │   └── screenshot-app-1.png
-│   │   └── screenshot-app-2.png
 │   ├── components/
 │   │   └── ui/
 │   │       ├── button.tsx
@@ -35,6 +36,7 @@ frontend/
 │   └── index.css
 ├── package.json
 └── README.md
+
 ```
 
 ## How to Run
@@ -71,8 +73,8 @@ The application is hosted and available online. You can access it [here](https:/
 
 Include some screenshots to demonstrate the application's functionality:
 
-![Home Screen](./prints/screenshot-app-1.png)  
-![Search Result](./prints/screenshot-app-2.png)
+![Home Screen](./frontend/assets/screenshot-app-1.png)  
+![Search Result](./frontend/assets/screenshot-app-2.png)
 
 ## Documentation
 
