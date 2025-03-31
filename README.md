@@ -72,17 +72,5 @@ The application is hosted and available online. You can access it [here](https:/
 
 Include some screenshots to demonstrate the application's functionality:
 
-![Home Screen](./public/assets/screenshot-app-1.png)  
-![Search Result](./public/assets/screenshot-app-2.png)
-
-## Documentation
-
-The code is commented to help understand the functionality of components and functions. Ensure that the link to the online application is included in this README as required.
-
-## Final Considerations
-
-This application demonstrates the integration of a React interface with the PokéAPI to create a Pokedex. For this exercise, **only submit the GitHub link containing the front-end code**.  
-**Important:** Your React application must be hosted and accessible online; the link to the live application should be included in this README.
-
-*Submission after the deadline will not be accepted!!!*
-```
+![Home Screen](./frontend/src/assets/screenshot-app-1.png)  
+![Search Result](./frontend/src/assets/screenshot-app-2.png)
