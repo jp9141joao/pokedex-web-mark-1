@@ -19,7 +19,7 @@ This project is a front-end application developed with React that consumes the [
 
 The project is structured as follows:
 
-```
+```plaintext
 frontend/
 ├── public/
 │   └── assets/
@@ -72,8 +72,8 @@ The application is hosted and available online. You can access it [here](https:/
 
 Include some screenshots to demonstrate the application's functionality:
 
-![Home Screen](./frontend/src/assets/screenshot-app-1.png)  
-![Search Result](./frontend/src/assets/screenshot-app-1.png)
+![Home Screen](./public/assets/screenshot-app-1.png)  
+![Search Result](./public/assets/screenshot-app-2.png)
 
 ## Documentation
 
