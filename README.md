@@ -1,4 +1,3 @@
-```markdown
 # PokeWiki - Pokedex React App
 
 This project is a front-end application developed with React that consumes the [PokéAPI](https://pokeapi.co/) to display information about a specific Pokémon. It was created as part of the exercise "PDF 3 - Let's develop a Pokedex?"
