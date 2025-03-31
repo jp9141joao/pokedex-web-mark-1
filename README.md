@@ -19,7 +19,7 @@ This project is a front-end application developed with React that consumes the [
 
 The project is structured as follows:
 
-```plaintext
+```
 frontend/
 ├── public/
 │   └── assets/
@@ -66,11 +66,11 @@ frontend/
 
 ## Hosting
 
-The application is hosted and available online. You can access it [here](https://pokewiki-mark-1.netlify.app/).
+The application is hosted and available online. You can access it [here](https://your-deployed-app-link.com).
 
 ## Screenshots
 
 Include some screenshots to demonstrate the application's functionality:
 
 ![Home Screen](./frontend/src/assets/screenshot-app-1.png)  
-![Search Result](./frontend/src/assets/screenshot-app-2.png)
+![Search Result](./frontend/src/assets/screenshot-app-2.png)  
