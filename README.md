@@ -65,7 +65,7 @@ frontend/
 
 ## Hosting
 
-The application is hosted and available online. You can access it [here](https://your-deployed-app-link.com).
+The application is hosted and available online. You can access it [here](https://pokewiki-mark-1.netlify.app/).
 
 ## Screenshots
 
