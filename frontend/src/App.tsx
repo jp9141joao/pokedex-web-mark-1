@@ -1,14 +1,7 @@
 import { useState } from 'react'
 import { Input } from './components/ui/input';
 import { Button } from './components/ui/button';
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import { Card } from "@/components/ui/card";
 
 function App() {
   const [name, setName] = useState<string>('');
@@ -17,7 +10,14 @@ function App() {
 
   const loadAPI = () => {
     setIsLoading(true);
-    const url = `https://pokeapi.co/api/v2/pokemon/${name}`;
+
+    if (name == '') {
+      setPokemon(null);
+      setIsLoading(false);
+      return;
+    }
+
+    const url = `https://pokeapi.co/api/v2/pokemon/${name.toLowerCase()}`;
 
     fetch(url)
       .then(response => response.json())
