@@ -42,7 +42,7 @@ frontend/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/pokedex-app.git
+   git clone https://github.com/jp9141joao/pokedex-web-mark-1
    ```
 
 2. **Navigate to the project folder:**
